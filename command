@@ -15,3 +15,13 @@ git clone url where_to_clone
 git remote -v
 git branch -a
 git diff
+
+Attention!!!
+1. git pull origin master
+2. git push origin master
+
+git branch new-branch
+git checkout branchname
+git branch
+git push -u origin new 
+git branch --merged

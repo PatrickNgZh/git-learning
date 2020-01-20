@@ -1,3 +1,4 @@
 hello
 This is a git learning.
 This is a new line.
+This is a new line in new branch;
