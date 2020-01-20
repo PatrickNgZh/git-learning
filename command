@@ -25,3 +25,5 @@ git checkout branchname
 git branch
 git push -u origin new 
 git branch --merged
+git branch -d
+git push origin --delete branch_name
